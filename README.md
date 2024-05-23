@@ -35,7 +35,9 @@ Use Python and SQLAlchemy to do a basic climate analysis and data exploration on
 
 6. Plot the results by using the DataFrame plot method.
 
-7. Use Pandas to print the summary statistics for the precipitation data.
+   ![Precipitation](https://github.com/kgregart/sqlalchemy-challenge/blob/main/Images/Precipitation.png)
+
+8. Use Pandas to print the summary statistics for the precipitation data.
 
 ### Station Analysis
 
@@ -56,6 +58,8 @@ Use Python and SQLAlchemy to do a basic climate analysis and data exploration on
     - Query the previous 12 months of TOBS data for that station.
 
     - Plot the results as a histogram with bins=12.
+
+![Station}(https://github.com/kgregart/sqlalchemy-challenge/blob/main/Images/Station.png)
 
 5. Close your session.
 
