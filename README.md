@@ -1,5 +1,7 @@
 # sqlalchemy-challenge
 
+![readme](https://github.com/kgregart/sqlalchemy-challenge/blob/main/Images/readme.jpg)
+
 # Objective
 
 Perfrom a climate analysis on the area of Honolulu, Hawaii. 
